@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phiageipoi.mutcv.com/sitemap.xml
